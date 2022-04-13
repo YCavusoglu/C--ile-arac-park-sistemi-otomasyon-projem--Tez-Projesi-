@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\bin\Debug\Otopark-tez.exe.config
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\bin\Debug\Otopark-tez.exe
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\bin\Debug\Otopark-tez.pdb
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark_tez.Form1.resources
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark_tez.Main.resources
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark_tez.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark_tez.RegistrationDetails.resources
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark-tez.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark-tez.exe
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark-tez.pdb
+C:\Users\Lenovo\Desktop\C#\Otopark-tez\Otopark-tez\obj\Debug\Otopark-tez.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Otopark-tez\Otopark-tez\bin\Debug\Otopark-tez.exe.config
+C:\Users\Lenovo\Desktop\Otopark-tez\Otopark-tez\obj\Debug\Otopark-tez.exe
+C:\Users\Lenovo\Desktop\Otopark-tez\Otopark-tez\obj\Debug\Otopark-tez.pdb
